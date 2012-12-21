@@ -3,7 +3,7 @@ layout: post
 title: "Respecting The Zone"
 date: 2012-12-20 17:32
 comments: true
-categories: office life 
+categories: officelife 
 ---
 
 All good developers are able to get into "The Zone". This is a state of mind
