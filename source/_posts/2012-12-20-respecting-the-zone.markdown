@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Respecting The Zone"
+date: 2012-12-20 17:32
+comments: true
+categories: office life 
+---
+
+All good developers are able to get into "The Zone". This is a state of mind
+where nothing matters but you and the code. Your office, your friends on IRC,
+even the music in your ears all cease to be and your mind is envisioning the
+raw logic of the problem you are trying to solve. It's almost euphoric. That is
+until a nerf dart hits you in the back of the head because someone is trying to 
+get your attention.
+
+Honestly I find this behavior to be not only disrespectful but downright rude.
+Yes we've all been in a situation where we need to get a hold of someone and
+they are unresponsive, it sucks, but unless there is a serious emergency (I'm
+talking downtime, significant lost of income, building on fire, etc) "The Zone"
+should be respected. Violently disengaging someone from the work is rather
+disorienting and after every disengagement it makes it just a little bit more
+difficult to get going again. 
+
+As developers it's our job to solve difficult problems. Every minute we spend
+out of "The Zone" our talents are essentially being wasted. Sure there is always
+"meta-work" that needs to be done (e-mail, meetings, standups, etc) but we
+should all do our part to keep everyone on the team productive.
+ 
+In turn we as developers must show respect back. Set a timer to go off ever 25
+minutes reminding us to take a break and disengage ourselves from our euphoric
+state (known as the pomodoro technique). Use this time to checkup on e-mail, 
+help coworkers with problems, ask questions, take a walk, etc. Your time in 
+"The Zone" tends to lose meaning if your coworkers never see you in any other way.
+
+**TLDR**: Don't shoot developers with nerf darts. It makes them angry. 
