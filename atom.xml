@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Jon Daniel]]></title>
+  <link href="http://jondaniel.net/atom.xml" rel="self"/>
+  <link href="http://jondaniel.net/"/>
+  <updated>2012-12-27T14:41:57-05:00</updated>
+  <id>http://jondaniel.net/</id>
+  <author>
+    <name><![CDATA[Jon Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Respecting The Zone]]></title>
+    <link href="http://jondaniel.net/blog/2012/12/20/respecting-the-zone/"/>
+    <updated>2012-12-20T17:32:00-05:00</updated>
+    <id>http://jondaniel.net/blog/2012/12/20/respecting-the-zone</id>
+    <content type="html"><![CDATA[<p>All good developers are able to get into &#8220;The Zone&#8221;. This is a state of mind
+where nothing matters but you and the code. Your office, your friends on IRC,
+even the music in your ears all cease to be and your mind is envisioning the
+raw logic of the problem you are trying to solve. It&#8217;s almost euphoric. That is
+until a nerf dart hits you in the back of the head because someone is trying to
+get your attention.</p>
+
+<p>Honestly I find this behavior to be not only disrespectful but downright rude.
+Yes we&#8217;ve all been in a situation where we need to get a hold of someone and
+they are unresponsive, it sucks, but unless there is a serious emergency (I&#8217;m
+talking downtime, significant lost of income, building on fire, etc) &#8220;The Zone&#8221;
+should be respected. Violently disengaging someone from the work is rather
+disorienting and after every disengagement it makes it just a little bit more
+difficult to get going again.</p>
+
+<p>As developers it&#8217;s our job to solve difficult problems. Every minute we spend
+out of &#8220;The Zone&#8221; our talents are essentially being wasted. Sure there is always
+&#8220;meta-work&#8221; that needs to be done (e-mail, meetings, standups, etc) but we
+should all do our part to keep everyone on the team productive.</p>
+
+<p>In turn we as developers must show respect back. Set a timer to go off ever 25
+minutes reminding us to take a break and disengage ourselves from our euphoric
+state (known as the pomodoro technique). Use this time to checkup on e-mail,
+help coworkers with problems, ask questions, take a walk, etc. Your time in
+&#8220;The Zone&#8221; tends to lose meaning if your coworkers never see you in any other way.</p>
+
+<p><strong>TLDR</strong>: Don&#8217;t shoot developers with nerf darts. It makes them angry.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Year In Review]]></title>
+    <link href="http://jondaniel.net/blog/2012/12/20/year-in-review/"/>
+    <updated>2012-12-20T14:54:00-05:00</updated>
+    <id>http://jondaniel.net/blog/2012/12/20/year-in-review</id>
+    <content type="html"><![CDATA[<p>2013 is almost here! Another year past, another year older (and maybe a tiny bit
+wiser). 2012 was a pretty interesting year for me professionally. Lots of ups, lots
+of downs, and plenty of things in between.</p>
+
+<p>This year marks my first full year as a Ruby developer and it markes the first time an
+employer has considered me a &#8220;Senior Developer&#8221;. Thinking of myself as even
+remotely experienced makes my head spin. In my mind I&#8217;m still the clueless
+Computer Science student who is terrified of not being able to make it in the
+<strong>real world</strong>.</p>
+
+<p>Steel City Ruby Conf was the first programming oriented conference I attended
+and I had a blast. While I wasn&#8217;t nearly as social as I was hoping I still
+got to meet a ton of great people and hear talks from some of my personal
+&#8220;ruby heros&#8221; like <a href="https://twitter.com/tenderlove">Aaron Patterson</a> and
+<a href="https://twitter.com/coreyhaines">Corey Haines</a>. I was really looking forward to
+<a href="https://twitter.com/jimweirich">Jim Weirich</a>&#8217;s talk but due to a pretty nasty
+migraine I had to leave early.</p>
+
+<p>Unfortunately I no longer see former coworkers
+<a href="https://twitter.com/Hoffm">Michael Hoffman</a> and
+<a href="https://twitter.com/laurenvoswinkel">Lauren Voswinkel</a> on a day-to-day basis
+but they both moved on to bigger and better things. Michael moved to New York
+City to be a rockstar developer and Lauren seems to be on the &#8220;ruby hero in training&#8221;
+path so I wish them both the best of luck.</p>
+
+<p>I made my first contribution to the Ruby Programming Language this year. <a href="https://github.com/ruby/ruby/pull/173">Pull
+Request #173</a> was a small fix I made to
+the IPAddr standard library to make some job processing recover from errors a
+bit more effectively. My contributions are going to be included with Ruby 2.0
+so it&#8217;s pretty exciting to know that programmers all over the world will be
+using a tiny bit of my code.</p>
+
+<p>One of my goals for 2012 was to overcome some of my shyness and social anxiety,
+epically in a professional setting. This was a bit of a mixed bag because I
+still have problems talking to people I&#8217;m unfamiliar with (and accepting that
+I&#8217;m not clueless when it comes to programming). I was able to give 2 talks at
+Pittsburgh Ruby Brigade meetings this year. One on Continuous Integration and the other
+on Liquid Markup. The CI talk went pretty poorly but that was because I was
+far more unprepared than I though (a common problem of mine when speaking). When
+I agreed to give a talk on Liquid Markup I made it my goal to not let history
+repeat itself. I got some pretty brutally honest feedback on my Liquid talk but
+the general consensus was that my talk went well.</p>
+
+<h2>Moving Forward</h2>
+
+<p>2013 looks like it&#8217;s going to be a pretty exciting year. Work has been going
+well (hopefully more on that later), I have made some pretty awesome new friends,
+and I have a lot of renewed enthusiasm for my profession.</p>
+
+<h3>Goals for 2013</h3>
+
+<ul>
+<li><p>Maintain a technical blog. I don&#8217;t need to post every day (or even every week)
+but I want to keep a record of my thoughts, successes, and failures relating
+to my craft.</p></li>
+<li><p>Remain involved with the tech community. This year saw the end of my
+involvement with the PHP User Group, but I became more involved with the Ruby
+community. I&#8217;d like to step up this involvement a bit by giving a few more talks and attending a few more conferences.</p></li>
+<li><p>Learn a new programming language. I&#8217;ve been working in mostly Ruby and
+JavaScript during my employment at Webkite. I&#8217;d like to pickup and become
+comfortable with a new language, I&#8217;m looking at you Go.</p></li>
+</ul>
+
+
+<p>Thanks for reading!</p>
+]]></content>
+  </entry>
+  
+</feed>
