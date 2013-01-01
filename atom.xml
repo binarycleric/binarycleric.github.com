@@ -4,7 +4,7 @@
   <title><![CDATA[Jon Daniel]]></title>
   <link href="http://binarycleric.github.com/atom.xml" rel="self"/>
   <link href="http://binarycleric.github.com/"/>
-  <updated>2013-01-01T15:52:50-05:00</updated>
+  <updated>2013-01-01T16:31:50-05:00</updated>
   <id>http://binarycleric.github.com/</id>
   <author>
     <name><![CDATA[Jon Daniel]]></name>
@@ -100,10 +100,9 @@ knowledge that may help me or a fellow developer down the line.</p>
 
 <h3>Research Failure</h3>
 
-<p>Learning about failure is just as important. While amusing <a href="http://thedailywtf.com">The Daily
-WTF</a> has been invaluable to me over the years. Reading
-about failures and anti-patterns in the tech industry has taught me to
-recognize warning signs for when a project is headed down the wrong path.</p>
+<p>Learning about failure is just as important. While amusing <a href="http://thedailywtf.com">The Daily WTF</a> has been invaluable to me over the years. Reading
+about failures and anti-patterns in the tech industry has taught me to recognize
+warning signs for when a project is headed down the wrong path.</p>
 
 <p>Remember: <em>A facepalm a day keeps the failwhale away</em>.</p>
 ]]></content>
