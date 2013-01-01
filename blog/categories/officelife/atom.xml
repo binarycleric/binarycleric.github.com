@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: officelife | Jon Daniel]]></title>
-  <link href="http://jondaniel.net/blog/categories/officelife/atom.xml" rel="self"/>
-  <link href="http://jondaniel.net/"/>
-  <updated>2012-12-27T14:41:57-05:00</updated>
-  <id>http://jondaniel.net/</id>
+  <link href="http://binarycleric.github.com/blog/categories/officelife/atom.xml" rel="self"/>
+  <link href="http://binarycleric.github.com/"/>
+  <updated>2013-01-01T15:52:50-05:00</updated>
+  <id>http://binarycleric.github.com/</id>
   <author>
     <name><![CDATA[Jon Daniel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Respecting The Zone]]></title>
-    <link href="http://jondaniel.net/blog/2012/12/20/respecting-the-zone/"/>
+    <link href="http://binarycleric.github.com/blog/2012/12/20/respecting-the-zone/"/>
     <updated>2012-12-20T17:32:00-05:00</updated>
-    <id>http://jondaniel.net/blog/2012/12/20/respecting-the-zone</id>
+    <id>http://binarycleric.github.com/blog/2012/12/20/respecting-the-zone</id>
     <content type="html"><![CDATA[<p>All good developers are able to get into "The Zone". This is a state of mind
 where nothing matters but you and the code. Your office, your friends on IRC,
 even the music in your ears all cease to be and your mind is envisioning the

@@ -1,23 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://jondaniel.net/blog/2012/12/20/year-in-review/</loc>
+        <loc>http://binarycleric.github.com/blog/2012/12/20/year-in-review/</loc>
         <lastmod>2012-12-27T14:37:05-05:00</lastmod>
     </url>
     <url>
-        <loc>http://jondaniel.net/blog/2012/12/20/respecting-the-zone/</loc>
+        <loc>http://binarycleric.github.com/blog/2012/12/20/respecting-the-zone/</loc>
         <lastmod>2012-12-22T15:23:11-05:00</lastmod>
     </url>
     <url>
-        <loc>http://jondaniel.net/blog/archives/</loc>
-        <lastmod>2012-12-27T14:37:05-05:00</lastmod>
+        <loc>http://binarycleric.github.com/blog/2013/01/01/identifying-weakness/</loc>
+        <lastmod>2013-01-01T15:52:05-05:00</lastmod>
     </url>
     <url>
-        <loc>http://jondaniel.net/</loc>
-        <lastmod>2012-12-27T14:37:05-05:00</lastmod>
+        <loc>http://binarycleric.github.com/blog/archives/</loc>
+        <lastmod>2013-01-01T15:52:05-05:00</lastmod>
     </url>
     <url>
-        <loc>http://jondaniel.net/talks/</loc>
+        <loc>http://binarycleric.github.com/</loc>
+        <lastmod>2013-01-01T15:52:05-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://binarycleric.github.com/talks/</loc>
         <lastmod>2012-12-22T15:23:11-05:00</lastmod>
     </url>
 </urlset>
