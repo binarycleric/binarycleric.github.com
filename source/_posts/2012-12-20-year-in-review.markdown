@@ -63,8 +63,7 @@ and I have a lot of renewed enthusiasm for my profession.
 
 * Remain involved with the tech community. This year saw the end of my
   involvement with the PHP User Group, but I became more involved with the Ruby
-  community. I'd like to step up this involvement a bit by giving a few more  
-  talks and attending a few more conferences.
+  community. I'd like to step up this involvement a bit by giving a few more talks and attending a few more conferences.
 
 * Learn a new programming language. I've been working in mostly Ruby and
   JavaScript during my employment at Webkite. I'd like to pickup and become
